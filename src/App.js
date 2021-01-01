@@ -4,7 +4,7 @@ import MoviesList from './MoviesList'
 import AddMovie from './AddMovie'
 import  Search from './Search' 
 import Rating  from './Rating' 
-
+import './harry.mp3'
 
 
 function App () {
@@ -45,7 +45,7 @@ function App () {
   }
   return (
     <div className="App">
-      {/* <h2 className="title"> Welcome in our films store !!</h2>*/}
+      
        <div className="something">
            <div className="search">
            <h4 className="tit"> Searsh</h4>
